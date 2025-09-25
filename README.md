@@ -1,4 +1,4 @@
-#Atividade Big Data 05#
+#Atividade Big Data 05
 
 Equipe
 - Sabrina
